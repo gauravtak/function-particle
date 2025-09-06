@@ -1,4 +1,4 @@
-list of functions:
-sin
-cos
-tan
+#### list of functions:
+- sin
+- cos
+- tan
